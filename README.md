@@ -1,5 +1,11 @@
 # VeryMiniEngine
 
+# Features
+
+No Ads before you even put on it
+
+# No nothig
+
 **(1) 修正後的用文的句子**  
 Consider a modular design, cross-platform compatibility, minimal memory usage, and a simple scripting interface to enable VeryMiniEngine to be lightweight yet versatile.
 
